@@ -43,7 +43,10 @@
   </a>
 </div>
 
+(Иконки кликабельны)
+
 - Email: oleg.pro171@gmail.com
+- Telegram: @see_02
 
 
 
