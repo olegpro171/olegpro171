@@ -29,24 +29,17 @@
 
 ### Связь со мной
 <div align="left">
-  <a href="https://www.linkedin.com/in/olegproshkin/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
-  <a href="https://t.me/see_02" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" />
-  </a>
-  <a href="https://www.instagram.com/o.pr_photography/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
-  </a>
-  <a href="mailto:oleg.pro171@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
-  </a>
+    <!-- <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/git/default.svg" width="52" height="40" alt="gmail logo" /> -->
 </div>
 
-(Иконки кликабельны)
-
+- LinkedIn: https://www.linkedin.com/in/olegproshkin/
+- Telegram: https://t.me/see_02
+- Instagram: https://www.instagram.com/o.pr_photography/
 - Email: oleg.pro171@gmail.com
-- Telegram: @see_02
 
 
 
